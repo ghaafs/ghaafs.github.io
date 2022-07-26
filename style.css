@@ -1,0 +1,52 @@
+#home {
+  background-color: #d6d7d0;
+  padding-top: 10rem;
+}
+
+.navbar-brand {
+  padding: 2rem 6rem;
+}
+
+.dropdown {
+  padding: 2rem 2rem;
+}
+
+section {
+  background-color: #dbdbdb;
+}
+
+#about-me {
+  background-color: #6f7168;
+}
+#projects {
+  background-color: #d6d7d0;
+}
+#experience {
+  background-color: #d6d7d0;
+}
+#achievement {
+  background-color: #d6d7d0;
+}
+#project {
+  background-color: #dbdbdb;
+}
+footer {
+  background-color: #6f7168;
+  color: #d6d7d0;
+  margin-bottom: 6px;
+  top: 0px;
+}
+a:link {
+  color: #dbdbdb;
+}
+
+/* visited link */
+a:visited {
+  color: #d6d7d0;
+}
+section {
+  padding-top: 8rem;
+}
+/* hex coktua" #6f7168
+hex abu2: #dbdbdb
+new: #d6d7d0 */
